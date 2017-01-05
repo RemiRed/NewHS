@@ -1,0 +1,37 @@
+
+<cardList>
+<weapons>
+	    <card id = 0>
+		    <name></name>
+		    <manaCost></manaCost>
+		    <attack></attack> 
+		    <durability></durability>
+		    <artwork></artwork>
+		    <spellID></spellID>
+		    <rarity></rarity>
+			<class></class>
+	    </card>
+</weapons>
+<spells>
+	        <card id = 0>
+		    <name></name>
+		    <manaCost></manaCost>
+		    <cardType></cardType>
+		    <artwork></artwork>
+		    <spellID></spellID>
+		    <rarity></rarity>
+			<class></class>
+	    </card>
+</spell>
+<minions>
+	    <card id = 0>
+		    <name></name>
+		    <manaCost></manaCost>
+		    <attack></attack> 
+		    <health></health>
+		    <artwork></artwork>
+		    <spellID></spellID>
+		    <rarity></rarity>
+			<class></class>
+	    </card>
+</minions>
